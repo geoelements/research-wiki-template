@@ -1,6 +1,6 @@
-# [Geoelements Research Wiki](https://geoelements.org/research-wiki-template/)
+# [Geoelements Research Wiki Template](https://geoelements.org/wiki-template/)
 
-Geoelements Research Wiki template. The research wiki is written in  Markdown (.md) file format. Fork the [Research Wiki repo](https://github.com/geoelements/research-wiki-template) on GitHub to start your own research wiki page. Prefix the repo-name as `wiki-`.
+Geoelements Research Wiki template. The research wiki is written in  Markdown (.md) file format. Fork the [Research Wiki repo](https://github.com/geoelements/wiki-template) on GitHub to start your own research wiki page. Prefix the repo-name as `wiki-`.
 
 ## Docsify
 
@@ -33,7 +33,7 @@ Modify the following lines:
 ...
 name: 'Geoelements Research Wiki Template',
 ...
-repo: 'https://github.com/geoelements/research-wiki-template',
+repo: 'https://github.com/geoelements/wiki-template',
 ```
 
 ### Color scheme
