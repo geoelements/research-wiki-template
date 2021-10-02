@@ -1,9 +1,9 @@
-# [Geoelements Research Wiki](https://geoelements.org/research-wiki/)
+# [Geoelements Research Wiki](https://geoelements.org/research-wiki-template/)
 
 Geoelements Research Wiki template. The research wiki is written in  
 Markdown (.md) file format. Fork the 
-[Research Wiki repo](https://github.com/geoelements/research-wiki) on 
-GitHub to start your own research wiki page. 
+[Research Wiki repo](https://github.com/geoelements/research-wiki-template) on 
+GitHub to start your own research wiki page. Talk to Krishna about the name of your repo.
 
 ## Docsify
 
@@ -96,6 +96,12 @@ Explain their main research findings
 ### Methodology (optional)
 Describe important procedure followed by the researchers.
 ```
+
+## Publishing
+You are required to publish your research wiki to the GitHub geoelements 
+organization. However, you may choose to have your repo as either public 
+or private. Note, once a paper is published, we require you to make the 
+repo public as well.
 
 ## License
 This research wiki is licensed under a [Creative Commons Attribution - NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/).
