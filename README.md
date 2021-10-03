@@ -1,6 +1,9 @@
 # [Geoelements Research Wiki Template](https://geoelements.org/wiki-template/)
 
-Geoelements Research Wiki template. The research wiki is written in  Markdown (.md) file format. Fork the [Research Wiki repo](https://github.com/geoelements/wiki-template) on GitHub to start your own research wiki page. Prefix the repo-name as `wiki-`.
+The Geoelements Research Wiki uses  Markdown (.md) file format. The research wiki documents daily progress, literature review, methodology, and your thoughts on the results.
+
+## Starting your wiki
+Fork the [Research Wiki repo](https://github.com/geoelements/wiki-template) on GitHub to start your research wiki page. Prefix the repo-name as `wiki-`.
 
 ## Docsify
 
@@ -57,19 +60,16 @@ body {
 
 ## Folder/File organization
 
-There are two main folders in the wiki `literature` and `research`. You may
-create other root folders like `code` or `theory` to discuss aspects of 
-code or background theory. Feel free to create as many subfolders as you 
-wish.
+There are two main folders in the wiki `literature` and `research`. You may create other root folders like `code` or `theory` to discuss code or background theory. Feel free to create as many subfolders as you wish.
 
 ### File naming
-In `literature` section, always name the file as `yyyy-first-author-title.md` format. Follow the same naming convention for folders you create for the images. Always place images inside these folders. 
+In the `literature` section, always name the file as `yyyy-first-author.md` format. Always place images inside these folders following the same naming convention.
 
-In the `research` section, create subfolders and use your judgement to 
+In the `research` section, create subfolders and use your judgment to 
 organize the sections/subsections.
 
 ### Literature structure
-We recommend the following structure for your literature reviews.
+Krishna recommends the following structure for your literature reviews.
 
 ```
 ## Title
@@ -82,7 +82,7 @@ We recommend the following structure for your literature reviews.
 New terms which you are unfamiliar
 
 ### Research questions 
-This is typically a bulleted list of questions
+Typically a bulleted list of questions
 
 ### Future research/unanswered questions
 Questions unanswered by the paper
@@ -91,13 +91,16 @@ Questions unanswered by the paper
 Explain their main research findings
 
 ### Methodology (optional)
-Describe important procedure followed by the researchers.
+Describe the critical procedure followed by the researchers.
 ```
 
+You may also have subsections with a general description of state of the art in an area. These state-of-the-art or background materials don't have to follow the structure described above. The summary describes your understanding of the background and what's missing.
+
+## Research workflow
+Make changes to the wiki daily or at least once every couple of days. Summarize what you have done and write down the methods used and the results obtained, and most importantly, your thoughts on the results. The wiki is a living document that holds snapshots of your thought process. I recommend you use the active voice when writing the wiki. Think of the wiki as a mini-version or a subsection of your paper. Writing a manuscript would then be simply copying sections from the wiki and rearranging those sections.  When you have documented your results, create a PR on the GitHub repo and assign Krishna to review the doc. 
+
 ## Publishing
-You are required to publish your research wiki to the GitHub geoelements 
-organization. However, you may choose to have your repo as either public 
-or private. Note, once a paper is published, we require you to make the 
+You are required to publish your research wiki to the GitHub Geoelements organization. However, you may choose to have your repo as either public or private. Note, once a paper is published, we require you to make the 
 repo public as well.
 
 ## License
