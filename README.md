@@ -96,8 +96,8 @@ Describe the critical procedure followed by the researchers.
 
 You may also have subsections with a general description of state of the art in an area. These state-of-the-art or background materials don't have to follow the structure described above. The summary describes your understanding of the background and what's missing.
 
-## Research workflow
-Make changes to the wiki daily or at least once every couple of days. Summarize what you have done and write down the methods used and the results obtained, and most importantly, your thoughts on the results. The wiki is a living document that holds snapshots of your thought process. I recommend you use the active voice when writing the wiki. Think of the wiki as a mini-version or a subsection of your paper. Writing a manuscript would then be simply copying sections from the wiki and rearranging those sections.  When you have documented your results, create a PR on the GitHub repo and assign Krishna to review the doc. 
+## Research workflow / How to use the wiki
+Make changes to the wiki daily or at least once every couple of days. Summarize what you have done and write down the methods, input, code SHA commit, results, and most importantly, your thoughts on the results. The wiki is a living document that holds snapshots of your thought process. I recommend you use the active voice when writing the wiki. Think of the wiki as a mini-version or a subsection of your paper. Writing a manuscript would then be simply copying sections from the wiki and rearranging those sections.  When you have documented your results, create a PR on the GitHub repo and assign Krishna to review the doc. 
 
 ## Publishing
 You are required to publish your research wiki to the GitHub Geoelements organization. However, you may choose to have your repo as either public or private. Note, once a paper is published, we require you to make the 
